@@ -1,0 +1,39 @@
+.h1{
+    border-radius: 50px;
+    background-color: red;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.center_img{
+    text-align: center;
+}
+h2{
+    background-color: red;
+    border-radius: 10px;
+    color: white;
+    padding: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    background-color: blue;
+    border-radius: 50px;
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+nav{
+    text-align: center;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding: 7px;
+    border: 1px solid rgb(0, 26, 255);
+    border-radius: 50px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+}
