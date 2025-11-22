@@ -1,39 +1,74 @@
-.h1{
-    border-radius: 50px;
-    background-color: red;
-    text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+body {
+    font-family: sans-serif;
+
+    background-color:lightblue;
+    color: rgb(255, 0, 0);
+    margin: 0;
+
 }
 
-.center_img{
-    text-align: center;
 }
 h2{
-    background-color: red;
-    border-radius: 10px;
-    color: white;
-    padding: 15px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 h1{
-    background-color: blue;
-    border-radius: 50px;
-    text-align: center;
-    color: white;
-    padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
 }
-nav{
-    text-align: center;
-
+header {
+    
+}
+img{
+    justify-content: space-between;
+    
+}
+.button {
+    
 }
 
-a {
+nav {
+    
+}
+
+.nav-link {
     text-decoration: none;
-    color: black;
-    padding: 7px;
-    border: 1px solid rgb(0, 26, 255);
-    border-radius: 50px;
-    background-color: blue;
-    color: white;
-    font-weight: bold;
+    
+}
+
+li{
+    padding: 10px;
+   font-family:'Times New Roman', Times, serif;
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+.article-but {
+    
+}
+
+footer {
+   
+}
+
+footer a {
+    
+}
+
+footer p {
+}
+
+.icon-text {
+    display: flex;
+    text-align: center;
+    background-color:rgb(255, 255, 255);
 }
